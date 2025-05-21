@@ -12,7 +12,6 @@ Một dự án mô phỏng hệ thống quản lý metadata đơn giản sử d�
 - `schema/`: Tạo bảng
 - `seed_data/`: Dữ liệu mẫu
 - `queries/`: Các câu truy vấn mẫu
-- `doc/`: Tài liệu mô hình dữ liệu
 
 ## 🚀 Cách dùng:
 1. Tạo schema trong Oracle bằng `create_tables.sql`
